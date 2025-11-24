@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I work at the intersection of deep learning and computer vision, currently focused on cross-view geo-localization—matching ground photos to overhead maps with robust, reproducible pipelines.<br>🧪 I care about clear metrics, fair comparisons, and ablation studies that actually explain model behavior.<br>🛠️ Tech stack: PyTorch • CUDA • OpenCV<br>🤖 In my free time, I’m learning PLC programming to understand control systems and industrial automation.<br>⚽ Outside of work, I’m a devoted football fan.
+👨‍💻 I work at the intersection of deep learning and computer vision, currently focused on cross-view geo-localization—matching ground photos to overhead maps with robust, reproducible pipelines.<br>🧪 I care about clear metrics, fair comparisons, and ablation studies that actually explain model behavior.<br>🤖 In my free time, I’m learning PLC programming to understand control systems and industrial automation.<br>⚽ Outside of work, I’m a devoted football fan.
 
 
 ## 🌐 Socials:
